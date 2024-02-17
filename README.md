@@ -71,5 +71,3 @@ Congratulations! You've completed the Git Basics Game. You've learned how to com
 Feel free to explore more Git commands and experiment with branching strategies. Happy coding!
 
 ---
-
-Feel free to customize the game instructions and tasks according to your project's needs. This game provides a hands-on approach for beginners to learn Git basics while interacting with a real repository.
