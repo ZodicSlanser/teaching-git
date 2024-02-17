@@ -1,5 +1,6 @@
 # Git Basics Game
 
+
 Welcome to the Git Basics Game! This game is designed to help you learn the basics of Git while having fun. Follow the instructions below to complete the game.
 
 ## Instructions:
