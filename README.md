@@ -7,7 +7,7 @@ Welcome to the Git Basics Game! This game is designed to help you learn the basi
 ### Setup:
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/zodicslanser/git-basics-game.git
+   git clone https://github.com/zodicslanser/teaching-git.git
    ```
 
 2. Navigate into the cloned repository.
